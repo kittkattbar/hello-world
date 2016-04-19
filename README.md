@@ -26,7 +26,12 @@
 </body>
 </div>
 </html>
+onst githubMarkdownCss = require('generate-github-markdown-css');
 
+githubMarkdownCss((err, css) => {
+    console.log(css);
+    //=> '.markdown-body { 
+    
 <link rel="stylesheet" href="github-markdown.css">
 <style>
 html, body {
