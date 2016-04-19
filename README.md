@@ -26,6 +26,7 @@
 </body>
 </div>
 </html>
+
 <link rel="stylesheet" href="github-markdown.css">
 <style>
 html, body {
@@ -80,11 +81,4 @@ video {
   padding-left: 20px;
 }
 
-
-
-
-
-
-    
-    }
 </style>
