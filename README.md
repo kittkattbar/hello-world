@@ -17,6 +17,6 @@
   <h3>Share Your Pedals with the World</h3>
   <p> This is the place to be when you need a set of wheels to get you moving in the right direction. Here is a 
   <a href="cities.html">list</a> of cities where you can find us.</p>
-<img src="296-1254691801CV9n.jpg"/>
+<img src="http://www.greatlakesadventureproject.com/wp-content/uploads/2013/09/49_Budget-Bicycle-Center3_ss.png"/>
 </body>
 </html>
